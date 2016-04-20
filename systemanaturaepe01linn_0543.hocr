@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./systemanaturaepe01linn_0543.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1108 996 1916 2165">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1108 996 1916 2165">
+     <span class='ocr_line' id='line_1_1' title="bbox 1108 996 1916 2165"><span class='ocrx_word' id='word_1_1' title='bbox 1108 996 1916 2165; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 399 3130 426 3168">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 399 3130 426 3168">
+     <span class='ocr_line' id='line_1_2' title="bbox 399 3130 426 3168"><span class='ocrx_word' id='word_1_2' title='bbox 399 3130 426 3168; x_wconf 43' lang='lat' dir='ltr'>Aa&lt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2336 4155 2345 4166">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2336 4155 2345 4166">
+     <span class='ocr_line' id='line_1_3' title="bbox 2336 4155 2345 4166; baseline 11 -11"><span class='ocrx_word' id='word_1_3' title='bbox 2336 4155 2345 4166; x_wconf 66' lang='lat' dir='ltr'>r</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
